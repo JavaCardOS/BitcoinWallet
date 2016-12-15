@@ -1,6 +1,6 @@
 # BitcoinWallet
 ## Overview
-BitcoinWallet is a Bitcoin Hardware Wallet implementation . It was based on the project [Ledger Wallet](https://github.com/LedgerHQ/ledger-javacard) and can be run on javacard platform with [JCRE](http://javacardos.com/wiki/index.php/home/index/index/model/jcre/app_name/JCRESpec01intro.html) version 3.0.x above. Bitcoin is an innovative payment system and a new kind of money. It was  implemented on P2P technologies and transactions take place between users directly.
+BitcoinWallet is a Bitcoin Hardware Wallet implementation . It was based on the project [Ledger Wallet](https://github.com/LedgerHQ/ledger-javacard) and can be run on javacard platform with [JCRE](http://javacardos.com/wiki/index.php/home/index/index/model/jcre/app_name/JCRESpec01intro.html?ws=github&prj=BitcoinWallet) version 3.0.x above. Bitcoin is an innovative payment system and a new kind of money. It was  implemented on P2P technologies and transactions take place between users directly.
 
 
 ##Compiling and Downloading
