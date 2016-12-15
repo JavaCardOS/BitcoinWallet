@@ -1,0 +1,27 @@
+<JavaCardProject name="BitcoinWallet">
+<USER>
+<PKG name="com.ledger.wallet" aid="11 22 33 44 55" major="1" minor="0">
+<CLASS name="AddressUtils"/>
+<CLASS name="Base58"/>
+<CLASS name="BCDUtils"/>
+<CLASS name="Bip32"/>
+<CLASS name="Bip32Cache"/>
+<CLASS name="Crypto"/>
+<CLASS name="GenericBEHelper"/>
+<CLASS name="HmacSha512"/>
+<CLASS name="Keycard"/>
+<APPLET aid="11 22 33 44 55 01" instanceaid="" parameter="" authority="" privileges="" index="-13008" name="LedgerWalletApplet"/>
+<APPLET aid="11 22 33 44 55 02" instanceaid="" parameter="" authority="" privileges="" index="32472" name="LWNFCForumApplet"/>
+<CLASS name="MathMod256"/>
+<CLASS name="ProprietaryAPI"/>
+<CLASS name="Ripemd160"/>
+<CLASS name="Secp256k1"/>
+<CLASS name="SHA512"/>
+<CLASS name="TC"/>
+<CLASS name="Transaction"/>
+<CLASS name="Uint32Helper"/>
+<CLASS name="Uint64Helper"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
